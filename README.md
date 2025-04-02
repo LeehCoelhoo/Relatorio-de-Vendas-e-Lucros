@@ -2,7 +2,7 @@
 Data Analyst - Relatório de Vendas - BI
 
 
-##Roteiro de Projeto
+## Roteiro de Projeto
 
 - Baixada a versão preliminar do pbix do Projeto: [Desafio DIO](https://katherineoelsner.com/)
 
