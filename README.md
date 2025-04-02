@@ -28,4 +28,4 @@ Data Analyst - Relatório de Vendas - BI
 
 - Relatório Publicado: https://app.powerbi.com/view?r=eyJrIjoiNWM2ZTg2ZTItNzYxMS00NDQ5LWJlOGQtZjE0NGY3MjM0NDBlIiwidCI6IjlhNTU0YWQzLWI1MmItNDg2Mi1hMzZmLTg0ZDg5MWU1YzcwNSJ9
 
-- - Criação de nova página para o último desafio de projeto, onde foi adicionados os parametros para os visuais, possibilitando assim o usuário maior flexibilidade e facilidade para verificar os visuais de acordo com suas preferências.
+- Criação de nova página para o último desafio de projeto, onde foi adicionados os parametros para os visuais, possibilitando assim o usuário maior flexibilidade e facilidade para verificar os visuais de acordo com suas preferências.
